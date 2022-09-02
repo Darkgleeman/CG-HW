@@ -1,0 +1,12 @@
+D:/CG_code/cs171-assignment3-Darkgleeman/out/build/x64-Release/CMakeFiles/edit_cache.dir
+D:/CG_code/cs171-assignment3-Darkgleeman/out/build/x64-Release/CMakeFiles/rebuild_cache.dir
+D:/CG_code/cs171-assignment3-Darkgleeman/out/build/x64-Release/libs/CMakeFiles/edit_cache.dir
+D:/CG_code/cs171-assignment3-Darkgleeman/out/build/x64-Release/libs/CMakeFiles/rebuild_cache.dir
+D:/CG_code/cs171-assignment3-Darkgleeman/out/build/x64-Release/libs/eigen/CMakeFiles/edit_cache.dir
+D:/CG_code/cs171-assignment3-Darkgleeman/out/build/x64-Release/libs/eigen/CMakeFiles/rebuild_cache.dir
+D:/CG_code/cs171-assignment3-Darkgleeman/out/build/x64-Release/libs/stb/CMakeFiles/edit_cache.dir
+D:/CG_code/cs171-assignment3-Darkgleeman/out/build/x64-Release/libs/stb/CMakeFiles/rebuild_cache.dir
+D:/CG_code/cs171-assignment3-Darkgleeman/out/build/x64-Release/src/CMakeFiles/rebuild_cache.dir
+D:/CG_code/cs171-assignment3-Darkgleeman/out/build/x64-Release/src/CMakeFiles/render.dir
+D:/CG_code/cs171-assignment3-Darkgleeman/out/build/x64-Release/src/CMakeFiles/edit_cache.dir
+D:/CG_code/cs171-assignment3-Darkgleeman/out/build/x64-Release/src/CMakeFiles/main.dir
